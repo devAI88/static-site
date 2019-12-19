@@ -1,3 +1,3 @@
 console.log("this is working");
 const greet = document.querySelector(".hello");
-greet.textContent = " working now !";
+greet.textContent = "This is working for sure!";
